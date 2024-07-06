@@ -1,0 +1,21 @@
+{
+  "enterprise": "Hartford Institute for Geriatric Nursing",
+  "button-1": "Home",
+  "button-2": "Examiner Performance Overview",
+  "title-home": "Home",
+  "subtitle-home": "Welcome to HIGN",
+  "title-card-1": "Mental State Exam Analytics",
+  "subtitle-card-1": "Score Analytics",
+  "exam-count": "Exam Count:",
+  "highest-score": "Highest Score:",
+  "lowest-score": "Lowest Score:",
+  "average-score": "Average Score:",
+  "title-examiner": "Examiner Performance Overview",
+  "header-card": "Examiner:",
+  "title-card-2": "NPI:",
+  "subtitle-card-2": "Mental State Exam Performance",
+  "count": "Current Assigned Mental State Exam Count:",
+  "average": "Average Assigned Mental State Exam Total Score:",
+  "not-found": "Page not found"
+
+}
